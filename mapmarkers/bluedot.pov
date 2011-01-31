@@ -20,8 +20,8 @@ light_source {
 
 /* illuminate the back so we can up the transparency */
 light_source {
-	<0,0,-10>
-	color Blue
+	<0,0,10>
+	color White
 }
 
 /* A bunch of light sources scattered around the bottom right quadrant */
